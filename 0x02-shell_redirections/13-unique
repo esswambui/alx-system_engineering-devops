@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /dev/stdin | cut -f 1 | sort | uniq
+sort | uniq
